@@ -21,6 +21,7 @@ The dataset contains 1862220 unique nodes (or users) and 9437519 edges .Edges in
   The cost of errors is not high
   #### Evaluation metric: F1 score 
   F1 score is defined as the harmonic mean between precision and recall. It is used as a statistical measure to rate performance.
+  
   <img src="https://www.tutorialexample.com/wp-content/uploads/2022/01/how-to-compute-accuracy-precision-recall-and-f1-score-in-machine-learning.png" width="400" />
   
   
