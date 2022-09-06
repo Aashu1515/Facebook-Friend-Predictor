@@ -1,4 +1,5 @@
-# Facebook-Friend-Recommender
+# Facebook-Friend-Predictor
+
 
 Download tranin.csv from https://www.kaggle.com/competitions/FacebookRecruiting/data
 
