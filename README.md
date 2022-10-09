@@ -15,7 +15,7 @@ Link prediction is the task to predict the missing links in graphs. it is mainly
 <img src="Sample_graph.png" width="700" />
 The dataset contains 1862220 unique nodes (or users) and 9437519 edges .Edges indicate relationship between two nodes  A->B means A is following B ( since the graph is directed we have assumed this ) 
 
-### Buissness Constraints:
+### Business Constraints:  
   #### Run Time Complexity : 
   The model doesnt need to return results in real time since the recomended users or friends can be calculated beforehand and stored
   #### Cost of errors :
