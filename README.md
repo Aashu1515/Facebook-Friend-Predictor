@@ -7,7 +7,7 @@ Download tranin.csv from https://www.kaggle.com/competitions/FacebookRecruiting/
 #### Problem Statement:
 We have to predict missing links to recommend users (Link Prediction) from a given directed graph.
  
-Link prediction is the task to predict the missing links in graphs. it is mainly used in Social nerworks and Recomender systems
+Link prediction is the task to predict the missing links in graphs. it is mainly used in Social networks and Recomender systems
 
 <img src="https://www.mdpi.com/symmetry/symmetry-13-00485/article_deploy/html/images/symmetry-13-00485-g001.png" alt="drawing" width="700"/>
 
